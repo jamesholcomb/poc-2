@@ -1,0 +1,14 @@
+__*
+.DS_Store
+.env
+.env.production
+.eslintcache
+.stylelintcache
+.vercel
+*.local
+/.cache
+/build
+/node_modules
+/prisma/docs
+/public/build
+tsconfig.tsbuildinfo
